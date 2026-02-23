@@ -45441,7 +45441,7 @@ r[7]=e+r[7]>>>0}}
 B.Yu.prototype={}
 B.NO.prototype={
 N(a){var s=null
-return new B.B2(new B.AY(s),"Ice Cream UY",B.wb(s,s,"Poppins",A.c1,s),!1,s)}}
+return new B.B2(new B.AY(s),"Unlimited Ice Cream",B.wb(s,s,"Poppins",A.c1,s),!1,s)}}
 B.k1.prototype={}
 B.hH.prototype={
 Bw(){return B.as(["name",this.b,"price",this.c],t.N,t.z)}}
